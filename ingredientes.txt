@@ -13,5 +13,8 @@ salsicha
 5 salsichas
 macarrão parafuso (fusilli)
 300 g de macarrão parafuso
+<<<<<<< HEAD
 pimenta
 
+=======
+>>>>>>> 868f1706ad5cfe90f2d9cf8ec35cb6adaa54ca0c
